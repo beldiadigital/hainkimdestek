@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Haini Kim - Destek ve Gizlilik</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    header, section, footer {
+      max-width: 800px;
+      margin: auto;
+      padding: 30px 20px;
+    }
+    h1, h2 {
+      color: #2c3e50;
+      text-align: center;
+    }
+    p {
+      font-size: 16px;
+      margin: 15px 0;
+    }
+    a.button {
+      display: inline-block;
+      padding: 12px 25px;
+      margin: 15px 0;
+      font-size: 18px;
+      color: white;
+      background-color: #007AFF;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background-color 0.3s;
+    }
+    a.button:hover {
+      background-color: #005BB5;
+    }
+    footer {
+      text-align: center;
+      color: #777;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Haini Kim Uygulama Destek</h1>
+  <p>Uygulamamızla ilgili destek almak veya soru sormak için aşağıdaki butona tıklayabilirsiniz.</p>
+  <div style="text-align:center;">
+    <a href="mailto:beldiadigital@gmail.com" class="button">Destek E-Postası Gönder</a>
+  </div>
+</header>
+
+<section>
+  <h2>Gizlilik Politikası</h2>
+  <p>Haini Kim uygulaması kullanıcı verilerini toplamaz. Tek amaç, kullanıcıların destek talebinde bulunabilmesini sağlamaktır. Gönderilen e-posta adresleri yalnızca destek için kullanılır ve üçüncü şahıslarla paylaşılmaz.</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Beldia Digital</p>
+</footer>
+
+</body>
+</html>
